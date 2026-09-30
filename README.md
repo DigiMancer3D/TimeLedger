@@ -142,14 +142,6 @@ Before sharing real workforce exports, remember that CSV, PNG, and `.wps` files 
 
 ---
 
-## GitHub
-
-Repository: https://github.com/DigiMancer3D/TimeLedger
-
-The repository already includes `TimeLedgerLogo.png`. Keep it at the repository root beside the HTML applications so the default path resolves correctly in a normal web host and in local/offline usage.
-
----
-
 ## Open-source note
 
 This package does not add a software license on the author's behalf. Add the license you want to the repository before describing the project as open-source under a specific license.
