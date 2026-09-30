@@ -124,30 +124,6 @@ Before sharing real workforce exports, remember that CSV, PNG, and `.wps` files 
 
 ---
 
-## Files included
-
-- `TimeLedger_Manager.html` — full manager application
-- `TimeLedger_Employee.html` — simplified employee/front-desk interface
-- `TimeLedgerLogo.png` — default public logo
-- `docs/Owner_Operations_Guide.pdf` — owner/operations overview
-- `docs/Manager_Guide.pdf` — manager workflow guide
-- `docs/Employee_Quick_Guide.pdf` — employee quick guide
-- `MANUAL_ACCEPTANCE_CHECKLIST.md` — release validation checklist
-- `TEST_REPORT.txt` — automated test summary
-- `PUBLIC_RELEASE_NOTES.md` — release and compatibility notes
-- `SHA256SUMS.txt` — release file checksums
-- `scripts/verify_release.sh` — structural and JavaScript verification
-- `tests/` — optional Playwright acceptance tests
-- `examples/Attraction_Timesheet_SAMPLE.csv` — sample data only
-
----
-
-## Open-source note
-
-This package does not add a software license on the author's behalf. Add the license you want to the repository before describing the project as open-source under a specific license.
-
----
-
 ## Recommended use cases
 
 #TimeLedger is especially well-suited to:
@@ -170,4 +146,4 @@ With its local-first model, portable share workflows, and compatibility with itt
 
 ---
 
-Ready to get started? Open `TimeLedger_Manager.html` and begin setting up your organization.
+
